@@ -25,6 +25,13 @@ body{
   font-family: 'Catamaran', sans-serif;
 }
 
+
+
+span, h1{
+  font-family: 'Tangerine', cursive;
+  /* font-size: xx-large; */
+}
+
 header{
   height: 80px;
 }
@@ -177,6 +184,8 @@ button.btn-special:hover{
 .text-danger{
   color: var(--danger);
 }
+
+p{font-size: xx-large;}
 
 .d-flex{
   display: flex;
